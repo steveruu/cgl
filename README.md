@@ -1,2 +1,2 @@
 # cgl
-Coming soon.
+coming soon.
